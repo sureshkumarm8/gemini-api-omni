@@ -26,30 +26,6 @@ export const CORE_MODELS: ModelConfig[] = [
     type: 'text'
   },
   {
-    id: 'gemini-1.5-flash',
-    name: 'Gemini 1.5 Flash',
-    description: 'Fast, cost-efficient multimodal model.',
-    rpmLimitFree: 15,
-    rpmLimitPaid: 2000,
-    tpmLimitFree: 1000000,
-    tpmLimitPaid: 4000000,
-    rpdLimitFree: 1500,
-    rpdLimitPaid: 'Unlimited',
-    type: 'text'
-  },
-  {
-    id: 'gemini-1.5-pro',
-    name: 'Gemini 1.5 Pro',
-    description: 'Mid-size multimodal model for complex tasks.',
-    rpmLimitFree: 2,
-    rpmLimitPaid: 360,
-    tpmLimitFree: 32000,
-    tpmLimitPaid: 2000000,
-    rpdLimitFree: 50,
-    rpdLimitPaid: 'Unlimited',
-    type: 'text'
-  },
-  {
     id: 'gemini-1.5-flash-8b',
     name: 'Gemini 1.5 Flash-8B',
     description: 'High volume, low intelligence tasks.',
