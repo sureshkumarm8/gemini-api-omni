@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Omni-View Dashboard",
+  "description": "A centralized dashboard to manage multiple Gemini API projects, monitor model availability, latency, and session-based usage statistics across the Gemini 3.0, 2.0 and 1.5 model families.",
+  "requestFramePermissions": []
+}
